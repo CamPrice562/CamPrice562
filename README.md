@@ -6,11 +6,6 @@
 
 <br/>
 
-```text
-/cameron $ whoami
-→  Security-minded developer | TypeScript · PowerShell · Python
-→  Hunting threats, fixing vulnerabilities, shipping code.
-```
 
 ---
 
@@ -35,9 +30,6 @@
 
 <a href="https://camprice562.github.io/Portfolio/contact">
   <img src="https://img.shields.io/badge/Contact_Me-005B9F?style=for-the-badge&logo=link&logoColor=white"/>
-</a>
-<a href="https://github.com/CamPrice562">
-  <img src="https://img.shields.io/badge/GitHub-CamPrice562-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" alt="footer"/>
