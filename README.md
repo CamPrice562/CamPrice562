@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <h3><b>Security & Software Engineer | Threat Hunter | Vulnerability Management Specialist | Automation Developer</b></h3>
-</div>
-
-<br/>
-
 ```text
 /cameron $ whoami
 →  Security-minded developer | TypeScript · PowerShell · Python
@@ -39,6 +33,9 @@
 
 ### 🤝 Connect
 
+<a href="https://camprice562.github.io/Portfolio/contact">
+  <img src="https://img.shields.io/badge/Contact_Me-005B9F?style=for-the-badge&logo=link&logoColor=white"/>
+</a>
 <a href="https://github.com/CamPrice562">
   <img src="https://img.shields.io/badge/GitHub-CamPrice562-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
