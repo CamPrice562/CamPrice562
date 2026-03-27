@@ -19,9 +19,9 @@
 | Repository | Description | Stack |
 |---|---|---|
 | [**My Website**](https://camprice562.github.io/Portfolio/) &nbsp;·&nbsp; [Repo](https://github.com/CamPrice562/Portfolio) | Professional hub and project showcase | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Threat Hunts**](https://github.com/CamPrice562/Threat-Hunts) | Threat hunting queries, playbooks & detections | ![Tenable](https://img.shields.io/badge/Tenable-005B9F?style=flat-square) ![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [**Threat Hunts**](https://github.com/CamPrice562/Threat-Hunts) | Threat hunting queries, playbooks & detections | ![MDE](https://img.shields.io/badge/MDE-00B4D8?style=flat-square&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [**Vulnerability Management**](https://github.com/CamPrice562/vulnerability-management) | Vulnerability tracking and remediation workflows | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Tenable](https://img.shields.io/badge/Tenable-005B9F?style=flat-square) |
-| [**STIGs**](https://github.com/CamPrice562/STIGS) | Automated STIG fixes via PowerShell scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [**STIGs**](https://github.com/CamPrice562/STIGS) | Automated STIG fixes via PowerShell scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Tenable](https://img.shields.io/badge/Tenable-005B9F?style=flat-square) |
 
 ---
 
