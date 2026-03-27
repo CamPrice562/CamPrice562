@@ -7,8 +7,6 @@
 <br/>
 
 
----
-
 ### 🗂️ Projects
 
 | Repository | Description | Stack |
